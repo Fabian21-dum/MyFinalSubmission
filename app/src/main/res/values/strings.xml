@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyFinalSubmission</string>
+    <string name="sings">Sings</string>
+    <string name="singers">Nama Penyanyi</string>
+    <string name="description">Deskripsi Penyanyi</string>
+    <string-array name="data_name">
+        <item>Bring Me The Horizon</item>
+        <item>CHVRCHES</item>
+        <item>Daughter</item>
+        <item>Frank Ocean</item>
+        <item>Hot Milk</item>
+        <item>Kanye West</item>
+        <item>Kid Cudi</item>
+        <item>Phoebe Bridgers</item>
+        <item>Soccer Mommy</item>
+        <item>Syd Matters</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bring Me The Horizon adalah sebuah band asalah inggris dengan genre Rock</item>
+        <item>CHVRCHES adalah band synthpop dari skotlandia</item>
+        <item>Daughter adalah band pop dari inggris</item>
+        <item>Frank Ocean adalah penyanyi pop/rnb asal amerika serikat</item>
+        <item>Hot Milk adalah band rock dari birmingham inggris</item>
+        <item>Kanye West adalah rapper asal chicago illinois amerika serikat</item>
+        <item>Kid Cudi adalah sebuah rapper asal amerika serikat</item>
+        <item>Phoebe Bridgers adalah penyanyi asal california amerika serikat</item>
+        <item>Soccer Mommy adalah penyanyi asal amerika serikat</item>
+        <item>Syd Matters adalah band asal amerika serikat</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bmth</item>
+        <item>@drawable/chvrches</item>
+        <item>@drawable/daughter</item>
+        <item>@drawable/frankocean</item>
+        <item>@drawable/hotmilk</item>
+        <item>@drawable/kanyewest</item>
+        <item>@drawable/cudi</item>
+        <item>@drawable/phoebe</item>
+        <item>@drawable/soccermommy</item>
+        <item>@drawable/sydmatters</item>
+    </integer-array>
+    <string name="profile">Profile</string>
+    <string name="share">share</string>
+</resources>
